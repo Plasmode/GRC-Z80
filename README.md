@@ -12,3 +12,11 @@ GRC-Z80 is based on the following GRC modules:
 - VGA-PS2 module
 - Housed in PacTec CM5-200 enclosure
 
+### CPLD design files
+
+### Quad Serial configuration
+
+### VGA-PS2 configuration
+
+### Software
+
